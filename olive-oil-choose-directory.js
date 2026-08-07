@@ -9,9 +9,17 @@
         profile: { meyve: 5, aci: 1, yakici: 1 },
         note: "Acılığı çok düşük, meyvemsi ve nazik bir karakteri var. İlk kez naturel sızma deneyenler ve yumuşak tat sevenler için ideal.",
         sizes: {
-            "500 ml": { p: "680,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" } },
-            "2 lt": { p: "2.550,00", u: "/arbequina-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt-306df6.png", basket: { id: 119, variantId: 152, unique: "e32c41659bc84f43acdc38e8ec5b27d4" } }
-        }
+            "500 ml": { p: "680,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" }, 
+          comment: {
+            "name": "N**** Ş**** Ç****",
+            "text": "Arbequina harika bir lezzet.Zeytinyağının kraliçesi yudum yudum sağlık! Aynı gün içinde jet teslimat da ayrıca çok etkileyici.Herkese tavsiye edebilirim.Çok teşekkürler."
+          }},
+              "2 lt": { p: "2.550,00", u: "/arbequina-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt-306df6.png", basket: { id: 119, variantId: 152, unique: "e32c41659bc84f43acdc38e8ec5b27d4" },
+          comment: {
+            "name": "",
+            "text": ""
+          }},
+        },
     },
     domat: {
         name: "Domat Soğuk Sıkım Erken Hasat",
@@ -20,8 +28,16 @@
         profile: { meyve: 4, aci: 2, yakici: 2 },
         note: "Hafif ve dengeli; çiğ tüketimde ve günlük kullanımda rahatça yer bulur. Yumuşak severler için çok amaçlı bir seçim.",
         sizes: {
-            "500 ml": { p: "680,00", u: "/domat-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-a442-0.png", basket: { id: 59, variantId: 88, unique: "308801a0cb0740b0851ce39660a8429c" } },
-            "2 lt": { p: "2.550,00", u: "/domat-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-9d7401.png", basket: { id: 118, variantId: 151, unique: "5a2191170fcd4fc29edb45b59e62abf3" } }
+            "500 ml": { p: "680,00", u: "/domat-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-a442-0.png", basket: { id: 59, variantId: 88, unique: "308801a0cb0740b0851ce39660a8429c" },
+          comment: {
+            "name": "G***** İ****",
+            "text": "Kıvamı, rengi ve kokusu çok iyi. Tadını beğendiğimiz için ikinci kez sipariş verdim. Emeklerinize sağlık. Teşekkürler."
+          }},
+            "2 lt": { p: "2.550,00", u: "/domat-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-9d7401.png", basket: { id: 118, variantId: 151, unique: "5a2191170fcd4fc29edb45b59e62abf3" },
+          comment: {
+            "name": "",
+            "text": ""
+          }}
         }
     },
     edremit: {
@@ -31,11 +47,31 @@
         profile: { meyve: 4, aci: 3, yakici: 3 },
         note: "Kuzey Ege'nin klasik dengeli profili: meyvemsi, orta düzeyde acı-yakıcı. Kahvaltıdan salataya, pişirmeye kadar her işe uyan “herkesin yağı”.",
         sizes: {
-            "250 ml": { p: "318,75", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-250ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-22c748.png", basket: { id: 57, variantId: 86, unique: "410ac4726140410d91799d25caf59064" } },
-            "500 ml": { p: "595,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-9c0cc-.png", basket: { id: 58, variantId: 87, unique: "6419fc98925343c4abdbf5dc0730a69b" } },
-            "1 lt": { p: "935,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-4e8694.png", basket: { id: 54, variantId: 83, unique: "d5d96883e68d4830ba3476eaff8703a0" } },
-            "2 lt": { p: "1.785,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-3-37a4.png", basket: { id: 55, variantId: 84, unique: "d4bae7e4af454e1c82340311ce0d0ff8" } },
-            "5 lt": { p: "3.485,00", u: "/edremit-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 100, variantId: 129, unique: "9739a5364e8d4494822c8a2b241a76a5" } }
+            "250 ml": { p: "318,75", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-250ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-22c748.png", basket: { id: 57, variantId: 86, unique: "410ac4726140410d91799d25caf59064" },
+          comment: {
+            "name": "E***** İ*****",
+            "text": "Çok kaliteli tadına ve kokusuna bayıldık, aynı zamanda kargo çok hızlı. Sağlık ve kaliteye önem veren herkese tavsiye ederim."
+          }},
+            "500 ml": { p: "595,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-9c0cc-.png", basket: { id: 58, variantId: 87, unique: "6419fc98925343c4abdbf5dc0730a69b" },
+          comment: {
+            "name": "M**** D*****",
+            "text": "Merhaba, ürünlerinizin tadı, aroması müthiş! Tebrik ederim. Güler yüzlü çalışanlarınız ve kaliteli anlayışınız için de ayrıca teşekkür ederim."
+          }},
+            "1 lt": { p: "935,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-4e8694.png", basket: { id: 54, variantId: 83, unique: "d5d96883e68d4830ba3476eaff8703a0" },
+          comment: {
+            "name": "S**** E****",
+            "text": "İlk etapta 1 lt denemiştim lezzeti harika. Eş dost tüm yakınlarıma tavsiye ettim."
+          }},
+            "2 lt": { p: "1.785,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-3-37a4.png", basket: { id: 55, variantId: 84, unique: "d4bae7e4af454e1c82340311ce0d0ff8" },
+          comment: {
+            "name": "A**** D*****",
+            "text": "Yağlar güzel ve kaliteli çok begendim teşekkürler"
+          }},
+            "5 lt": { p: "3.485,00", u: "/edremit-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 100, variantId: 129, unique: "9739a5364e8d4494822c8a2b241a76a5" },
+          comment: {
+            "name": "",
+            "text": ""
+          }},
         }
     },
     memecik: {
@@ -45,7 +81,11 @@
         profile: { meyve: 4, aci: 5, yakici: 5 },
         note: "En yoğun ve karakterli çeşit: otsu-yeşil notalar, belirgin acı-yakıcılık ve yüksek polifenol. Güçlü tat ve maksimum yoğunluk arayan meraklılar için.",
         sizes: {
-            "500 ml": { p: "722,50", u: "/memecik-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/memecik-erken-hasat-soguk-sikim-nature--4468-.png", basket: { id: 98, variantId: 127, unique: "69c4fbc68cda4c3ca8465efce6e1ece6" } }
+            "500 ml": { p: "722,50", u: "/memecik-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/memecik-erken-hasat-soguk-sikim-nature--4468-.png", basket: { id: 98, variantId: 127, unique: "69c4fbc68cda4c3ca8465efce6e1ece6" },
+          comment: {
+            "name": "",
+            "text": ""
+          }}
         }
     },
     olgun: {
@@ -55,10 +95,26 @@
         profile: { meyve: 3, aci: 2, yakici: 2 },
         note: "Yumuşak, az acılı ve geniş kabul gören bir profil. Günlük pişirme ve ev yemekleri için ideal; büyük ambalajlarda ekonomik.",
         sizes: {
-            "500 ml": { p: "403,75", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-28f8-4.png", basket: { id: 69, variantId: 98, unique: "95091521e0d243819c33818338f98ee9" } },
-            "1 lt": { p: "722,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-6-8d65.png", basket: { id: 68, variantId: 97, unique: "d71d17f29f5f44d1ab60d732b75227f7" } },
-            "2 lt": { p: "1.402,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-c7ed83.png", basket: { id: 67, variantId: 96, unique: "f2c0a7b3a61245f7b99e64cbd0a2b9b1" } },
-            "5 lt": { p: "2.890,00", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 66, variantId: 95, unique: "7bb9950f1c684328b6f25941a36f5d04" } }
+            "500 ml": { p: "403,75", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-28f8-4.png", basket: { id: 69, variantId: 98, unique: "95091521e0d243819c33818338f98ee9" },
+          comment: {
+            "name": "",
+            "text": ""
+          }},
+            "1 lt": { p: "722,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-6-8d65.png", basket: { id: 68, variantId: 97, unique: "d71d17f29f5f44d1ab60d732b75227f7" },
+          comment: {
+            "name": "",
+            "text": ""
+          }},
+            "2 lt": { p: "1.402,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-c7ed83.png", basket: { id: 67, variantId: 96, unique: "f2c0a7b3a61245f7b99e64cbd0a2b9b1" },
+          comment: {
+            "name": "A**** D****",
+            "text": "Çok beğendim tavsiye ederim"
+          }},
+            "5 lt": { p: "2.890,00", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 66, variantId: 95, unique: "7bb9950f1c684328b6f25941a36f5d04" },
+          comment: {
+            "name": "A**** C***",
+            "text": "Tek kelimeyle nefis mukemmel bir yağ"
+          }},
         }
     },
     yemeklik: {
@@ -68,7 +124,11 @@
         profile: { meyve: 2, aci: 1, yakici: 1 },
         note: "Kızartma ve kavurma gibi yüksek tüketimli kullanımlar için düşünülmüş, ekonomik yemeklik yağ. Karakterden çok pratikliği önceleyenler için.",
         sizes: {
-            "5 lt teneke": { p: "2.337,50", u: "/-naturel-birinci-yemeklik-zeytinyagi-5-lt.-teneke1", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/-naturel-birinci-yemeklik-zeytinyagi-5-b-4998.png", basket: { id: 56, variantId: 85, unique: "7fe27319d6254dd0847c5d897ea0befe" } }
+            "5 lt teneke": { p: "2.337,50", u: "/-naturel-birinci-yemeklik-zeytinyagi-5-lt.-teneke1", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/-naturel-birinci-yemeklik-zeytinyagi-5-b-4998.png", basket: { id: 56, variantId: 85, unique: "7fe27319d6254dd0847c5d897ea0befe" },
+          comment: {
+            "name": "A**** A****",
+            "text": "Lezzeti gerçekten efsane. Alırken tereddütlerim vardı ama artık kalmadı. Kesinlikle düşünmeden alabilirsiniz."
+          }}
         }
     },
     tadim: {
@@ -79,7 +139,11 @@
         set: true,
         note: "Hangisini seveceğinizden emin değilseniz buradan başlayın. Üç farklı karakteri deneyip damak zevkinize en uygun olanı bulun, sonra büyük ambalaja geçin.",
         sizes: {
-            "Tadım seti": { p: "1.950,00", u: "/uc-karakter-zeytinyagi-tadim-seti", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/uc-karakter-zeytinyagi-tadim-seti--630f-.png", basket: { id: 122, variantId: 155, unique: "29e2f1fd363a44ce886e2b08ea6cc9b5" } }
+            "Tadım seti": { p: "1.950,00", u: "/uc-karakter-zeytinyagi-tadim-seti", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/uc-karakter-zeytinyagi-tadim-seti--630f-.png", basket: { id: 122, variantId: 155, unique: "29e2f1fd363a44ce886e2b08ea6cc9b5" },
+          comment: {
+            "name": "",
+            "text": ""
+          }}
         }
     }
   };
@@ -115,6 +179,45 @@
   function card(line,pref){const oil=OILS[line];const sizeKey=pickSize(oil,pref);const s=oil.sizes[sizeKey];const url=BASE+s.u;const img=s.img||(Object.values(oil.sizes).find(x=>x.img)||{}).img||"";return{oil,sizeKey,s,url,img};}
   function bottleSVG(tone){const oil=tone==="gold"?"#D9A93A":tone==="gold-deep"?"#C98F22":"#9DB23F";const oil2=tone==="gold"?"#C08A2B":tone==="gold-deep"?"#A87016":"#7C8A32";return '<svg width="66" height="120" viewBox="0 0 66 120" fill="none" aria-hidden="true"><rect x="27" y="2" width="12" height="14" rx="2" fill="#3B4A2A"/><path d="M24 16h18v8c0 3 4 5 4 10v76a6 6 0 0 1-6 6H26a6 6 0 0 1-6-6V34c0-5 4-7 4-10v-8z" fill="#EDEADD" stroke="#CFC9B4" stroke-width="1.5"/><path d="M22 60h22v50a6 6 0 0 1-6 6H26a6 6 0 0 1-6-6V60z" fill="'+oil+'"/><rect x="22" y="60" width="22" height="4" fill="'+oil2+'"/><rect x="24" y="74" width="18" height="26" rx="2" fill="#fff" opacity=".82"/></svg>';}
   function metersHTML(p){var rows=[["Meyvemsilik",p.meyve],["Acılık",p.aci],["Yakıcılık",p.yakici]];var path="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z";function stars(n){var o="";for(var i=1;i<=5;i++){o+='<svg class="ek-star'+(i<=n?" on":"")+'" viewBox="0 0 24 24" aria-hidden="true"><path d="'+path+'"/></svg>';}return o;}return '<div class="ek-meters">'+rows.map(function(r){return '<div class="ek-meter"><span>'+r[0]+'</span><span class="ek-stars" role="img" aria-label="'+r[0]+' '+r[1]+'/5">'+stars(r[1])+'</span></div>';}).join("")+'</div>';}
+  function getCommentData(s){
+    if(!s||!s.comment) return null;
+    let name=(s.comment.name||"").trim();
+    let text=(s.comment.text||"").trim();
+    if(!name && !text) return null;
+    if(name.length > 30 && text.length > 0 && text.length < 30){
+      const tmp=name; name=text; text=tmp;
+    }
+    if(!text) return null;
+    return {name, text};
+  }
+
+  function renderReview(s, url){
+    const c = getCommentData(s);
+    const starFilled = '<svg width="14" height="14" viewBox="0 0 24 24" fill="#EAB308" aria-hidden="true"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>';
+    const starEmpty = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#D6D0BE" stroke-width="1.8" aria-hidden="true"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>';
+
+    if(c){
+      const stars = '<span class="ek-review-stars" aria-label="5 yıldız">'+starFilled.repeat(5)+'</span>';
+      const author = c.name ? ' <span class="ek-review-author">— '+c.name+'</span>' : '';
+      return '<div class="ek-review-box">'
+        +'<div class="ek-review-head">'+stars+'</div>'
+        +'<div class="ek-review-body">'
+        +'<span class="ek-review-text">“'+c.text+'”</span>'
+        +author
+        +' <a href="'+url+'" target="_top" class="ek-review-link">(Tümünü Gör)</a>'
+        +'</div>'
+        +'</div>';
+    } else {
+      const stars = '<span class="ek-review-stars" aria-label="Henüz değerlendirilmedi">'+starEmpty.repeat(5)+'</span>';
+      return '<div class="ek-review-box empty">'
+        +'<div class="ek-review-head">'
+        +stars
+        +' <a href="'+url+'" target="_top" class="ek-review-link empty-link">(İlk değerlendiren siz olun)</a>'
+        +'</div>'
+        +'</div>';
+    }
+  }
+
   function renderResult(){
     const line=decideLine(answers);const P=card(line,answers.size);const altL=altLine(line,answers);const A=altL?card(altL,answers.size):null;
     const imgTag=P.img?'<img src="'+P.img+'" alt="'+P.oil.name+'" onerror="this.parentNode.innerHTML=\''+bottleSVG(P.oil.tone).replace(/'/g,"\\'")+'\'">':bottleSVG(P.oil.tone);
@@ -142,6 +245,7 @@
       + '<h2 class="m-0">'+P.oil.name+ ' (' + P.sizeKey +')' + '</h2>'
       +'<span class="ek-badge">'+P.oil.badge+'</span>'+metersHTML(P.oil.profile)
       +'<p class="ek-note">'+P.oil.note+'</p>'
+      +renderReview(P.s, P.url)
       +btnHtml
       +'</div></div>';
     if(A){html+='<div class="ek-alt"><span class="ek-alt-txt">Alternatif: <b>'+A.oil.name+'</b> · '+A.sizeKey+'</span><a href="'+A.url+'" class="ek-alt-btn" data-recommended="'+P.oil.name+' ('+P.sizeKey+')" data-alternative="'+A.oil.name+' ('+A.sizeKey+')" target="_top">İncele ›</a></div>';}
