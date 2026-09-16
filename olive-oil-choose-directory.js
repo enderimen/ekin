@@ -241,7 +241,7 @@
 
     let html=''
       +'<div class="ek-result-head"><div class="ek-eyebrow">SİZİN İÇİN ÖNERİMİZ</div></div>'
-      +'<div class="ek-card"><div class="ek-bottlewrap" data-discount="-15%">'+imgTag+'</div><div class="ek-info">'
+      +'<div class="ek-card"><div class="ek-bottlewrap" data-discount="-25%">'+imgTag+'</div><div class="ek-info">'
       + '<h2 class="m-0">'+P.oil.name+ ' (' + P.sizeKey +')' + '</h2>'
       +'<span class="ek-badge">'+P.oil.badge+'</span>'+metersHTML(P.oil.profile)
       +'<p class="ek-note">'+P.oil.note+'</p>'
