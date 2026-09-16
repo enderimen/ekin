@@ -100,7 +100,7 @@
             "name": "",
             "text": ""
           }},
-            "1 lt": { p: "722,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-6-8d65.png", basket: { id: 68, variantId: 97, unique: "d71d17f29f5f44d1ab60d732b75227f7" },
+            "1 lt": { p: "637,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-6-8d65.png", basket: { id: 68, variantId: 97, unique: "d71d17f29f5f44d1ab60d732b75227f7" },
           comment: {
             "name": "",
             "text": ""
