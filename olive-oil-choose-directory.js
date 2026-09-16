@@ -9,7 +9,7 @@
         profile: { meyve: 5, aci: 1, yakici: 1 },
         note: "Acılığı çok düşük, meyvemsi ve nazik bir karakteri var. İlk kez naturel sızma deneyenler ve yumuşak tat sevenler için ideal.",
         sizes: {
-            "500 ml": { p: "800,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" }, 
+            "500 ml": { p: "600,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" }, 
           comment: {
             "name": "N**** Ş**** Ç****",
             "text": "Arbequina harika bir lezzet. Zeytinyağının kraliçesi yudum yudum sağlık! Aynı gün içinde jet teslimat da ayrıca çok etkileyici.Herkese tavsiye edebilirim.Çok teşekkürler."
