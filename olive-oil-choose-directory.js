@@ -9,12 +9,12 @@
         profile: { meyve: 5, aci: 1, yakici: 1 },
         note: "Acılığı çok düşük, meyvemsi ve nazik bir karakteri var. İlk kez naturel sızma deneyenler ve yumuşak tat sevenler için ideal.",
         sizes: {
-            "500 ml": { p: "600,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" }, 
+            "500 ml": { p: "680,00", u: "/arbequina-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt--46bf-.png", basket: { id: 60, variantId: 89, unique: "04290b35666d4d51b4f56ea5e0b1ab86" }, 
           comment: {
             "name": "N**** Ş**** Ç****",
-            "text": "Arbequina harika bir lezzet. Zeytinyağının kraliçesi yudum yudum sağlık! Aynı gün içinde jet teslimat da ayrıca çok etkileyici.Herkese tavsiye edebilirim.Çok teşekkürler."
+            "text": "Arbequina harika bir lezzet.Zeytinyağının kraliçesi yudum yudum sağlık! Aynı gün içinde jet teslimat da ayrıca çok etkileyici.Herkese tavsiye edebilirim.Çok teşekkürler."
           }},
-              "2 lt": { p: "2.550,00", u: "/arbequina-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt-306df6.png", basket: { id: 119, variantId: 152, unique: "e32c41659bc84f43acdc38e8ec5b27d4" },
+              "2 lt": { p: "2.250,00", u: "/arbequina-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/arbequina-soguk-sikim-erken-hasat-zeyt-306df6.png", basket: { id: 119, variantId: 152, unique: "e32c41659bc84f43acdc38e8ec5b27d4" },
           comment: {
             "name": "",
             "text": ""
@@ -28,12 +28,12 @@
         profile: { meyve: 4, aci: 2, yakici: 2 },
         note: "Hafif ve dengeli; çiğ tüketimde ve günlük kullanımda rahatça yer bulur. Yumuşak severler için çok amaçlı bir seçim.",
         sizes: {
-            "500 ml": { p: "680,00", u: "/domat-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-a442-0.png", basket: { id: 59, variantId: 88, unique: "308801a0cb0740b0851ce39660a8429c" },
+            "500 ml": { p: "600,00", u: "/domat-erken-hasat-soguk-sikim-zeytinyagi-0.5-lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-a442-0.png", basket: { id: 59, variantId: 88, unique: "308801a0cb0740b0851ce39660a8429c" },
           comment: {
             "name": "G***** İ****",
             "text": "Kıvamı, rengi ve kokusu çok iyi. Tadını beğendiğimiz için ikinci kez sipariş verdim. Emeklerinize sağlık. Teşekkürler."
           }},
-            "2 lt": { p: "2.550,00", u: "/domat-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-9d7401.png", basket: { id: 118, variantId: 151, unique: "5a2191170fcd4fc29edb45b59e62abf3" },
+            "2 lt": { p: "2.250,00", u: "/domat-soguk-sikim-erken-hasat-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/domat-soguk-sikim-erken-hasat-zeytinya-9d7401.png", basket: { id: 118, variantId: 151, unique: "5a2191170fcd4fc29edb45b59e62abf3" },
           comment: {
             "name": "",
             "text": ""
@@ -47,27 +47,27 @@
         profile: { meyve: 4, aci: 3, yakici: 3 },
         note: "Kuzey Ege'nin klasik dengeli profili: meyvemsi, orta düzeyde acı-yakıcı. Kahvaltıdan salataya, pişirmeye kadar her işe uyan “herkesin yağı”.",
         sizes: {
-            "250 ml": { p: "318,75", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-250ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-22c748.png", basket: { id: 57, variantId: 86, unique: "410ac4726140410d91799d25caf59064" },
+            "250 ml": { p: "281,25", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-250ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-22c748.png", basket: { id: 57, variantId: 86, unique: "410ac4726140410d91799d25caf59064" },
           comment: {
             "name": "E***** İ*****",
             "text": "Çok kaliteli tadına ve kokusuna bayıldık, aynı zamanda kargo çok hızlı. Sağlık ve kaliteye önem veren herkese tavsiye ederim."
           }},
-            "500 ml": { p: "595,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-9c0cc-.png", basket: { id: 58, variantId: 87, unique: "6419fc98925343c4abdbf5dc0730a69b" },
+            "500 ml": { p: "525,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-9c0cc-.png", basket: { id: 58, variantId: 87, unique: "6419fc98925343c4abdbf5dc0730a69b" },
           comment: {
             "name": "M**** D*****",
             "text": "Merhaba, ürünlerinizin tadı, aroması müthiş! Tebrik ederim. Güler yüzlü çalışanlarınız ve kaliteli anlayışınız için de ayrıca teşekkür ederim."
           }},
-            "1 lt": { p: "935,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-4e8694.png", basket: { id: 54, variantId: 83, unique: "d5d96883e68d4830ba3476eaff8703a0" },
+            "1 lt": { p: "825,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-1lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-4e8694.png", basket: { id: 54, variantId: 83, unique: "d5d96883e68d4830ba3476eaff8703a0" },
           comment: {
             "name": "S**** E****",
             "text": "İlk etapta 1 lt denemiştim lezzeti harika. Eş dost tüm yakınlarıma tavsiye ettim."
           }},
-            "2 lt": { p: "1.785,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-3-37a4.png", basket: { id: 55, variantId: 84, unique: "d4bae7e4af454e1c82340311ce0d0ff8" },
+            "2 lt": { p: "1.575,00", u: "/erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature-3-37a4.png", basket: { id: 55, variantId: 84, unique: "d4bae7e4af454e1c82340311ce0d0ff8" },
           comment: {
             "name": "A**** D*****",
             "text": "Yağlar güzel ve kaliteli çok begendim teşekkürler"
           }},
-            "5 lt": { p: "3.485,00", u: "/edremit-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 100, variantId: 129, unique: "9739a5364e8d4494822c8a2b241a76a5" },
+            "5 lt": { p: "3.075,00", u: "/edremit-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 100, variantId: 129, unique: "9739a5364e8d4494822c8a2b241a76a5" },
           comment: {
             "name": "",
             "text": ""
@@ -81,7 +81,7 @@
         profile: { meyve: 4, aci: 5, yakici: 5 },
         note: "En yoğun ve karakterli çeşit: otsu-yeşil notalar, belirgin acı-yakıcılık ve yüksek polifenol. Güçlü tat ve maksimum yoğunluk arayan meraklılar için.",
         sizes: {
-            "500 ml": { p: "722,50", u: "/memecik-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/memecik-erken-hasat-soguk-sikim-nature--4468-.png", basket: { id: 98, variantId: 127, unique: "69c4fbc68cda4c3ca8465efce6e1ece6" },
+            "500 ml": { p: "637,50", u: "/memecik-erken-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=300,quality=85,format=webp/60900/Uploads/UrunResimleri/buyuk/memecik-erken-hasat-soguk-sikim-nature--4468-.png", basket: { id: 98, variantId: 127, unique: "69c4fbc68cda4c3ca8465efce6e1ece6" },
           comment: {
             "name": "",
             "text": ""
@@ -95,7 +95,7 @@
         profile: { meyve: 3, aci: 2, yakici: 2 },
         note: "Yumuşak, az acılı ve geniş kabul gören bir profil. Günlük pişirme ve ev yemekleri için ideal; büyük ambalajlarda ekonomik.",
         sizes: {
-            "500 ml": { p: "403,75", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-28f8-4.png", basket: { id: 69, variantId: 98, unique: "95091521e0d243819c33818338f98ee9" },
+            "500 ml": { p: "356,25", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-500ml", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-28f8-4.png", basket: { id: 69, variantId: 98, unique: "95091521e0d243819c33818338f98ee9" },
           comment: {
             "name": "",
             "text": ""
@@ -105,12 +105,12 @@
             "name": "",
             "text": ""
           }},
-            "2 lt": { p: "1.402,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-c7ed83.png", basket: { id: 67, variantId: 96, unique: "f2c0a7b3a61245f7b99e64cbd0a2b9b1" },
+            "2 lt": { p: "1.237,50", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-2lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/edremit-olgun-hasat-soguk-sikim-nature-c7ed83.png", basket: { id: 67, variantId: 96, unique: "f2c0a7b3a61245f7b99e64cbd0a2b9b1" },
           comment: {
             "name": "A**** D****",
             "text": "Çok beğendim tavsiye ederim"
           }},
-            "5 lt": { p: "2.890,00", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 66, variantId: 95, unique: "7bb9950f1c684328b6f25941a36f5d04" },
+            "5 lt": { p: "2.550,00", u: "/olgun-hasat-soguk-sikim-naturel-sizma-zeytinyagi-5lt", img: "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/60900/uploads/urunresimleri/buyuk/edremit-erken-hasat-soguk-sikim-nature--1dd5-.png", basket: { id: 66, variantId: 95, unique: "7bb9950f1c684328b6f25941a36f5d04" },
           comment: {
             "name": "A**** C***",
             "text": "Tek kelimeyle nefis mukemmel bir yağ"
@@ -124,7 +124,7 @@
         profile: { meyve: 2, aci: 1, yakici: 1 },
         note: "Kızartma ve kavurma gibi yüksek tüketimli kullanımlar için düşünülmüş, ekonomik yemeklik yağ. Karakterden çok pratikliği önceleyenler için.",
         sizes: {
-            "5 lt teneke": { p: "2.337,50", u: "/-naturel-birinci-yemeklik-zeytinyagi-5-lt.-teneke1", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/-naturel-birinci-yemeklik-zeytinyagi-5-b-4998.png", basket: { id: 56, variantId: 85, unique: "7fe27319d6254dd0847c5d897ea0befe" },
+            "5 lt teneke": { p: "2.062,50", u: "/-naturel-birinci-yemeklik-zeytinyagi-5-lt.-teneke1", img: "https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/60900/uploads/urunresimleri/buyuk/-naturel-birinci-yemeklik-zeytinyagi-5-b-4998.png", basket: { id: 56, variantId: 85, unique: "7fe27319d6254dd0847c5d897ea0befe" },
           comment: {
             "name": "A**** A****",
             "text": "Lezzeti gerçekten efsane. Alırken tereddütlerim vardı ama artık kalmadı. Kesinlikle düşünmeden alabilirsiniz."
